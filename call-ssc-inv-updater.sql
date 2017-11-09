@@ -1,0 +1,3 @@
+---Call procedure---
+
+CALL updatequantityinstock()
